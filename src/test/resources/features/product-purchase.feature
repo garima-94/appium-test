@@ -3,7 +3,6 @@
 Feature: To test the product purchase flow
 
   Scenario: To test successful purchase of a product
-#    Given I am on the "Products" page of the demo app
     When I select "Sauce Labs Backpack" from the product list page
     And I select "Black" bag
     And I tap on "Add to Cart" button on product detail page
