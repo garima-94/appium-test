@@ -1,0 +1,11 @@
+android:
+  deviceName: "Pixel 7 Pro"
+  platformVersion: "33.0"
+  appPath: "/src/test/resources/apps/MyDemoApp.apk"
+  appPackage: "com.saucelabs.mydemoapp.android"
+  appActivity: "com.saucelabs.mydemoapp.android.view.activities.SplashActivity"
+
+ios:
+  deviceName: "iPhone 16 Pro"
+  platformVersion: "18.1"
+  app: "/src/test/resources/apps/My Demo App.app"
